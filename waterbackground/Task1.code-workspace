@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Cource Projects/Task1"
+		},
+		{
+			"path": "../loading"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "loading"
+	}
+}
